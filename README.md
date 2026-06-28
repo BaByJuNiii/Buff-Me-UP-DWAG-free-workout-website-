@@ -28,3 +28,4 @@ Follow these steps to spin up the fitness application on your machine:
 
 ### 1. Clone the Repository
 ```bash
+https://github.com/BaByJuNiii/Buff-Me-UP-DWAG-free-workout-website-.git
